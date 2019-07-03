@@ -10,7 +10,7 @@
 
 ### Background
 
-Our model was trained on the full history of LendingClub loan performance data (https://www.lendingclub.com/info/download-data.action) and utilizes RandomForest, SVM, and Logistic Regression Models to greenlight loans for investment.
+Our model was trained on LendingClub loan performance data from 2007 - 2015 (https://www.lendingclub.com/info/download-data.action) and utilizes scikit-learn's Random Forest Classifier to greenlight loan underwriting.
 
 ### Usage
 
